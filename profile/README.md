@@ -1,4 +1,6 @@
-## DNGRUS IS reBUILDING.
+## DNGRUS IRC NETWORK
+
+irc.dngrus.
 
 <!--
 
